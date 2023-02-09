@@ -1,0 +1,38 @@
+body {
+  background-color: #add8e6;
+  font-family: sans-serif;
+  color: 		#191970;
+}
+
+.fields{
+  display: block;
+  align-items: center;
+  text-align: center;
+  background-color: white;
+  border-radius: 3px;
+  width: 60%;
+  height: 100%;
+}
+
+#Submit{
+  background-color: #191970;
+  border: none;
+  color: white;
+  width: 100px;
+  height: 50 px;
+}
+
+#Submit:hover{
+  background-color: 		#00ced1;
+}
+
+video{
+  width: 150px;
+  height: 75px;
+}
+
+#canvas{
+  width:150px;
+  height:75px;
+  visibility: hidden;
+}
